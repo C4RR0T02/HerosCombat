@@ -1,3 +1,2 @@
-# PathlightDemo
-Python OOP game for Pathlight
-Not Confirmed yet just keeping the options open
+# Heros Combat
+Python OOP game for showcasing Possible use of Python Projects
