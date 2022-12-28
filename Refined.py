@@ -23,7 +23,6 @@ class Character:
     # Defining the attack method
     def attack(self, opponent):
         randomint1 = random.randint(1,25)
-        print(randomint1)
         validint = False
         while validint == False:
             randomint2 = input("Enter a number between 1-25: ").strip()
@@ -62,7 +61,6 @@ class Character:
     # Defining the focus method
     def focus(self):
         randomint1 = random.randint(1,25)
-        print(randomint1)
         validint = False
         while validint == False:
             randomint2 = input("Enter a number between 1-25: ").strip()
